@@ -12,6 +12,6 @@ A list of blocks (records) that are linked together using hashes, maintained as 
 
 
 
-This code repository is meant for a <a href="https://events.bizzabo.com/ma2017/agenda/session/206634">talk</a> at Magic Symposium 2017 in KL, Malaysia on 6th October. My main goal at this point is to explain how a blockchain works, and its key concepts.
+This code repository is meant for a <a href="https://events.bizzabo.com/ma2017/agenda/session/206634">talk</a> at Magic Symposium 2017 in KL, Malaysia on 6th October. My main goal at this point is to explain how a blockchain works and its key concepts.
 
-Gists vs Repo: I was considering using a gist, but <a href="https://stackoverflow.com/questions/43724011/gist-vs-repository-for-tutorial"> learned </a> that directories aren't supported, hence have placed the code here in a repo. You can clone it in a local env and run it with the command `ruby blockchain_generator.rb`. 
+Gist vs Repo: I was considering using a gist, but <a href="https://stackoverflow.com/questions/43724011/gist-vs-repository-for-tutorial"> learned </a> that directories aren't supported, hence have placed the code here in a repo. You can clone it in a local env and run it with the command `ruby blockchain_generator.rb`. 
