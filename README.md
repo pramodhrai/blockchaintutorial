@@ -1,4 +1,5 @@
-This code repository is meant for a <a href="https://events.bizzabo.com/ma2017/agenda/session/206634">talk</a> at Magic Symposium 2017 in KL, Malaysia on 6th October. My main goal at this point is to explain how a blockchain works and its key concepts.
+This code repository is meant for a <a href="https://events.bizzabo.com/ma2017/agenda/session/206634">talk</a> at Magic Symposium 2017 in KL, Malaysia on 6th October. My main goal at this point is to explain how a blockchain works and its key concepts. 
+
 
 ### What is a blockchain?
 
@@ -22,7 +23,7 @@ A "hash algorithm" is a one-way function that produces a fingerprint or "hash" t
 
 Check out `persist_block.rb` for how I do it, though it's primarily for illustration. 
 
-In other blockchains, such as the Bitcoin, Ethereum, Coda, Hyperledger. Typically nodes compete against one another to mine a block, using proof-of-work or proof-of-stake to achieve consensus on the winning node. 
+In other blockchains - such as the Bitcoin, Ethereum, Coda, Hyperledger - nodes typically compete against one another to mine a block, using proof-of-work or proof-of-stake to achieve consensus on the winning block. 
 
 ### What kind of blockchains are there? 
 
@@ -32,10 +33,15 @@ All of these are configurations that can be set up based on the network's requir
 
 ### What's next?
 
-I'll be developing this tutorial to build a decentralised, distributed blockchain that uses Proof-of-Work to achive consensus. 
-What you have so far in this repo is a centralised blockchain - good enough to start separating hype from reality in the news/amidst conversations and doing a bunch of stuff, but I'm planning on much more after getting this far.
+I'll be developing this tutorial to build a decentralised, distributed blockchain that uses Proof-of-Work to achieve consensus. What you have so far in this repo is a centralised blockchain - good enough to start separating hype from reality in the news/amidst conversations and doing a bunch of stuff, but I'm planning on much more after getting this far.
+
+In future, I will shift contents into a Wiki and use this README to just provide instructions on how to run the code.
 
 
 ### How to run this code?
 
 You can clone it in a local env and run it with the command `ruby blockchain_generator.rb`. 
+
+### Others
+
+If you have thoughts, feedback - please feel free to reach out at pramodhdev2015@gmail.com
