@@ -20,7 +20,7 @@ A "hash algorithm" is a one-way function that produces a fingerprint or "hash" t
 
 ### How is a block mined?
 
-Check out `persist_block.rb` for how I do, though it's primarily for illustration. 
+Check out `persist_block.rb` for how I do it, though it's primarily for illustration. 
 
 In other blockchains, such as the Bitcoin, Ethereum, Coda, Hyperledger. Typically nodes compete against one another to mine a block, using proof-of-work or proof-of-stake to achieve consensus on the winning node. 
 
@@ -36,4 +36,6 @@ I'll be developing this tutorial to build a decentralised, distributed blockchai
 What you have so far in this repo is a centralised blockchain - good enough to start separating hype from reality in the news/amidst conversations and doing a bunch of stuff, but I'm planning on much more after getting this far.
 
 
-<sub><sup>Gist vs Repo: I was considering using a gist, but <a href="https://stackoverflow.com/questions/43724011/gist-vs-repository-for-tutorial"> learned </a> that directories aren't supported, hence have placed the code here in a repo. You can clone it in a local env and run it with the command `ruby blockchain_generator.rb`. </sup></sub>
+### How to run this code?
+
+You can clone it in a local env and run it with the command `ruby blockchain_generator.rb`. 
