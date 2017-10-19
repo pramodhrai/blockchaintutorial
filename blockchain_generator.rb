@@ -1,6 +1,6 @@
 require_relative "services/persist_block"
 
-total_blocks_to_add = 30
+total_blocks_to_add = 5
 
 persist_block_service = PersistBlock.new
 persist_block_service.create_first_block
