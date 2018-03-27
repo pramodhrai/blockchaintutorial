@@ -1,4 +1,4 @@
-This code repository is meant for a <a href="https://events.bizzabo.com/ma2017/agenda/session/206634">talk</a> at Magic Symposium 2017 in KL, Malaysia on 6th October. My main goal at this point is to explain how a blockchain works and its key concepts. 
+This code repository is meant for a <a href="https://events.bizzabo.com/ma2017/agenda/session/206634">talk</a> at Magic Symposium 2017 in KL, Malaysia on 6th October. My main goal is to explain how a blockchain works and its key concepts. I will refer to this tutorial from time to time in future conversations and talks as well. Feel free to discuss too.
 
 
 ### What is a blockchain?
